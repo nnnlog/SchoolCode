@@ -1,0 +1,33 @@
+{
+  "name": "schoolcode",
+  "version": "1.0.1",
+  "description": "나이스에서 사용하는 학교 코드를 받아옵니다.",
+  "keywords": [
+    "neis",
+    "school",
+    "schoolcode"
+  ],
+  "homepage": "https://github.com/nnnlog/SchoolCode",
+  "bugs": {
+    "url": "https://github.com/nnnlog/SchoolCode/issues",
+    "email": "sorisem4106@naver.com"
+  },
+  "license": "MIT",
+  "author": "엔로그 <sorisem4106@naver.com> (박찬솔)",
+  "main": "src/SchoolCode.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnnlog/SchoolCode.git"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "promise": "^8.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {}
+}
