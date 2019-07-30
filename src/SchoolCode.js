@@ -24,7 +24,7 @@ class SchoolCode {
             DAEJEON: 'dje.go.kr',
             ULSAN: 'use.go.kr',
             SEJONG: 'sje.go.kr',
-            GYEONGGI: 'ken.go.kr',
+            GYEONGGI: 'goe.go.kr',
             GANGWON: 'kwe.go.kr',
             CHUNG_BUK: 'cbe.go.kr',
             CHUNK_NAM: 'cne.go.kr',
