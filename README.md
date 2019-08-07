@@ -2,6 +2,7 @@
 
 [![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=1.0.1&x2=0)](https://www.npmjs.com/package/schoolcode)
 
+* 새로운 [neis api](https://github.com/nnnlog/neis)에서 계속 이용할 수 있습니다.
 * 나이스에서 학교 코드를 받아와 제공해주는 API 입니다.
 
 ###### 학교 코드 사용처
